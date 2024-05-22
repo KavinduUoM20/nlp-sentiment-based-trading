@@ -1,0 +1,9 @@
+jupyter
+pandas
+scikit-learn
+nltk
+spacy
+transformers
+torch
+tensorflow
+#python -m spacy download en_core_web_sm
